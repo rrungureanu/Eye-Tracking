@@ -1,0 +1,23 @@
+﻿  Source2.cpp
+c:\users\rrung\source\repos\eyedetection\eyedetection\source2.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rrung\source\repos\eyedetection\eyedetection\source2.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rrung\source\repos\eyedetection\eyedetection\source2.cpp(60): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\rrung\source\repos\eyedetection\eyedetection\source2.cpp(148): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\rrung\source\repos\eyedetection\eyedetection\source2.cpp(202): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  EyeDetection.vcxproj -> C:\Users\rrung\source\repos\EyeDetection\x64\Debug\EyeDetection.exe
